@@ -37,4 +37,5 @@ General job search sites, code, and articles.
 ## Articles
 
 - [Grind 75](https://www.techinterviewhandbook.org/grind75) — Customizable, prioritized successor to "Blind 75," generating a coding-interview study plan based on time available, difficulty, and topics.
+- [DailyRemote: Salary Negotiation Guide](https://dailyremote.com/get/salary-negotiation) — **Free** — Career-advice guide covering geographic pay bands, valuing total compensation (benefits, equity, stipends), timing your ask around a written offer, and email scripts for negotiating remote salaries.
 - [AI gave you a promotion. Why AI isn't replacing...](https://www.linkedin.com/posts/shazron_ai-gave-you-a-promotion-why-ai-isnt-replacing-activity-7479894349963501568-aOCg) — LinkedIn post arguing AI is augmenting certain roles rather than replacing them outright.
