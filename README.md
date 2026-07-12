@@ -16,6 +16,7 @@ General job search sites, code, and articles.
 - [Railway Careers](https://railway.com/careers#open-positions) — **Free** (single-company page) · **Remote: Yes** — Careers page for Railway, a fully-remote cloud infrastructure startup.
 - [4dayweek.io](https://4dayweek.io/) — **Free** · **Remote: Yes** — Job board focused on companies offering a 4-day work week (or other reduced-hour arrangements) at full pay, with many remote listings.
 - [PostHog Careers](https://posthog.com/careers) — **Free** (single-company page) · **Remote: Yes** — Careers page for PostHog, a product analytics startup organized into small teams, with remote roles available.
+- [Remote.com Careers](https://remote.com/careers) — **Free** (single-company page) · **Remote: Yes** — Careers page for Remote, a remote-first, fully asynchronous global HR/employment platform (payroll, Employer of Record, benefits) with employees across 6 continents.
 
 ## General Jobs
 
