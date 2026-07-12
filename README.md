@@ -35,11 +35,18 @@ General job search sites, code, and articles.
 
 ### AWS Certification
 
+- [Frequently Asked Questions on This Subreddit](https://www.reddit.com/r/AWSCertifications/comments/1nf3cab/frequently_asked_questions_on_this_subreddit/) — **Free** — Pinned FAQ post for r/AWSCertifications covering common questions about AWS certification paths, exam prep, and the subreddit's rules.
+
 **AWS Certified Cloud Practitioner (Foundation)**
 
 - [Just Passed Cloud Practitioner With Zero...](https://www.reddit.com/r/AWSCertifications/comments/1u53btz/just_passed_cloud_practitioner_with_zero/) — **Free** — Reddit r/AWSCertifications thread with a first-hand pass experience and study tips.
 - [I'm Cloud Practitioner Certified!](https://www.reddit.com/r/AWSCertifications/comments/1sh54l8/im_cloud_practitioner_certified/) — **Free** — Reddit r/AWSCertifications thread with a first-hand pass experience and study tips.
 - [AWS Cloud Practitioner Essentials](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7) — **Free** — Official AWS Skill Builder course covering all four exam domains (cloud concepts, AWS services, security, pricing/support); ~6 hours, self-paced, the recommended starting point for the certification.
+
+**Projects**
+
+- [Top AWS Projects](https://www.datacamp.com/blog/top-aws-projects) — **Free** — DataCamp guide to 13 hands-on AWS projects across beginner, intermediate, advanced, and DevOps tracks (S3 static sites, Elastic Beanstalk, SageMaker ML, containerized deployments, etc.) for building portfolio-worthy cloud skills.
+- [Learn Serverless AWS by Building 7 Projects](https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/) — **Free** — freeCodeCamp walkthrough of 7 progressively harder serverless projects (API aggregator, URL shortener, reminder app, live chat, voting app, messaging app, event-driven e-commerce) covering DynamoDB, WebSockets, Cognito, and EventBridge.
 
 ## Videos
 
