@@ -30,9 +30,20 @@ General job search sites, code, and articles.
 - [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — **Free** (open source) — Claude Code-based framework: fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs/cover letters, and prep you for interviews.
 - [career-ops](https://github.com/santifer/career-ops) — **Free** (open source) — AI-powered job search automation system with A-F job scoring, tailored CV generation, batched portal scanning across 45+ companies, and a terminal dashboard for tracking applications.
 
+## Training
+
+### AWS Certification
+
+**AWS Certified Cloud Practitioner (Foundation)**
+
+- [Just Passed Cloud Practitioner With Zero...](https://www.reddit.com/r/AWSCertifications/comments/1u53btz/just_passed_cloud_practitioner_with_zero/) — **Free** — Reddit r/AWSCertifications thread with a first-hand pass experience and study tips.
+- [I'm Cloud Practitioner Certified!](https://www.reddit.com/r/AWSCertifications/comments/1sh54l8/im_cloud_practitioner_certified/) — **Free** — Reddit r/AWSCertifications thread with a first-hand pass experience and study tips.
+- [AWS Cloud Practitioner Essentials](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7) — **Free** — Official AWS Skill Builder course covering all four exam domains (cloud concepts, AWS services, security, pricing/support); ~6 hours, self-paced, the recommended starting point for the certification.
+
 ## Videos
 
 - [Remote Tech Jobs Are Disappearing in 2026 (Unless You Know Where to Look)](https://www.youtube.com/watch?v=KT70c58mWMg) — Discusses the shrinking pool of remote tech jobs in 2026 and where/how to still find them.
+- [AWS Certification Roadmap For Beginners (2027)](https://www.youtube.com/watch?v=XPIR2IFFcdA) — Outlines a suggested learning path and certification sequence for beginners starting out with AWS certifications.
 
 ## Articles
 
