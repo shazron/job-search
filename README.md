@@ -17,6 +17,8 @@ General job search sites, code, and articles.
 - [4dayweek.io](https://4dayweek.io/) — **Free** · **Remote: Yes** — Job board focused on companies offering a 4-day work week (or other reduced-hour arrangements) at full pay, with many remote listings.
 - [PostHog Careers](https://posthog.com/careers) — **Free** (single-company page) · **Remote: Yes** — Careers page for PostHog, a product analytics startup organized into small teams, with remote roles available.
 - [Remote.com Careers](https://remote.com/careers) — **Free** (single-company page) · **Remote: Yes** — Careers page for Remote, a remote-first, fully asynchronous global HR/employment platform (payroll, Employer of Record, benefits) with employees across 6 continents.
+- [Remote100K](https://remote100k.com/) — **Free** · **Remote: Yes** — Remote job board listing only roles paying $100K+, across 14 categories (engineering, product, sales, marketing, design, finance, healthcare); apply directly with no account required.
+- [JustRemote](https://justremote.co/) — **Freemium** (Power Search is paid) · **Remote: Yes** — Remote job board with 2,000+ listings across 14+ categories (developer, design, marketing, writing, support, HR, sales, executive); free to browse, with a paid Power Search product for surfacing unadvertised remote roles.
 
 ## General Jobs
 
@@ -30,6 +32,11 @@ General job search sites, code, and articles.
 
 - [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — **Free** (open source) — Claude Code-based framework: fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs/cover letters, and prep you for interviews.
 - [career-ops](https://github.com/santifer/career-ops) — **Free** (open source) — AI-powered job search automation system with A-F job scoring, tailored CV generation, batched portal scanning across 45+ companies, and a terminal dashboard for tracking applications.
+
+## Tools
+
+- [Otclick](https://otclick.org/) — **Freemium** ($12/month for unlimited AI features) — Chrome extension and dashboard that autofills job application forms across 1,000+ platforms (LinkedIn, Greenhouse, Lever, Workday), generates AI answers to open-ended questions, and tracks outcomes via Gmail; it fills the form but never submits for you.
+- [Hunter](https://hunter.io/) — **Freemium** (free tier, then paid plans/credits) — Email finder and verifier for reaching hiring managers and recruiters directly: look up professional email addresses by company domain or person name, verify them, and run outreach sequences; includes a free Chrome extension.
 
 ## Training
 
