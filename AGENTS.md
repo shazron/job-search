@@ -12,6 +12,7 @@ This repo is a curated, personal link collection for job searching — not a sof
 - **Remote Jobs Available** — job boards/company career pages with remote listings
 - **General Jobs** — broader job boards, not remote-specific
 - **Code to Help With Job Search** — open-source tools/repos
+- **Tools** — non-code, hosted job-search aids (SaaS, browser extensions), e.g. application autofillers and email finders
 - **Training** — subsectioned by topic (e.g. `### AWS Certification`), which may further break down into labeled groups (e.g. `**AWS Certified Cloud Practitioner (Foundation)**`, `**Projects**`) using bold text as a sub-heading, not a markdown heading level
 - **Videos** — YouTube links
 - **Articles** — blog posts, guides, social posts
